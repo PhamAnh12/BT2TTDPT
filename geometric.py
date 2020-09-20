@@ -22,6 +22,6 @@ def approxEntropy(N, p):
         entropy += prob(i, p) * infoMeasure(i, p)
     return entropy
     """ Kết quả của hàm approxEntropy(30, 0.5) là: 1.9999999422580004 ≈ 2
-        Kết quả của hàm approxEntropy(500, 0.5) là: 1.9999999999999998 ≈
+        Kết quả của hàm approxEntropy(500, 0.5) là: 1.9999999999999998 ≈ 2
         => Hàm approxEntropy tính xấp xỉ entropy của nguồn tin geometric & 
         entropy của nguồn geometric có giá trị = 2 """
