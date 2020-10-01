@@ -1,2 +1,2 @@
-# BT2TTDPT
-Bài tập tuần 2 Truyền thông đa phương tiện 
+# BTTTDPT
+Bài tập tuần  Truyền thông đa phương tiện 
